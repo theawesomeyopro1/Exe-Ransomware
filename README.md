@@ -1,1 +1,1 @@
-# python ransomware in exe,
+# ransomware
